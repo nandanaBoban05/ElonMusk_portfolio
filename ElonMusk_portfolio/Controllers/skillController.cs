@@ -4,7 +4,7 @@ namespace ElonMusk_portfolio.Controllers
 {
     public class skillController : Controller
     {
-        public IActionResult Index()
+        public IActionResult skill()
         {
             return View();
         }
